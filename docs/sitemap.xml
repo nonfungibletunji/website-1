@@ -1,5 +1,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+<<<<<<< HEAD
+        <loc>http://localhost:3000/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/authors/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/authors/andris-sipos/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/authors/tibor-bodecs/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/contact/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/content-management/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/content-management/markdown/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/content-management/page-bundles/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/deployment/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/deployment/github-pages/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/getting-started/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/getting-started/basics/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/getting-started/commands/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/getting-started/site-index/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/installation/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/installation/linux/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/installation/macos/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/installation/windows/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/integrations/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/integrations/syntax-highlight/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/themes/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/themes/basics/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/themes/block-directives/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/themes/content-types/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/themes/mustache-templates/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/themes/theme-assets/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/docs/themes/toucan-templates/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/faq/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/news/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/showcases/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/tags/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/tags/news/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/tags/releases/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/first-beta-release/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/last-alpha-release/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/toucan-is-now-ready-for-alpha-testing/</loc>
+        <lastmod>2024-10-23</lastmod>
+        <loc>http://localhost:3000/introducing-toucan-a-new-markdown-based-static-site-generator/</loc>
+        <lastmod>2024-10-23</lastmod>
+=======
         <loc>https://toucansites.com/</loc>
         <lastmod>2024-10-27</lastmod>
         <loc>https://toucansites.com/authors/</loc>
@@ -76,5 +154,6 @@
         <lastmod>2024-10-27</lastmod>
         <loc>https://toucansites.com/introducing-toucan-a-new-markdown-based-static-site-generator/</loc>
         <lastmod>2024-10-17</lastmod>
+>>>>>>> 48cb6da0410d399ece3c62629e583c59ac6e2818
     </url>
 </urlset>
